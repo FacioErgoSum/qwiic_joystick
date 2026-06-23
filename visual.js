@@ -17,8 +17,8 @@ const WIN_SCORE = 7;
 // ---- palette (matches the visualizer) ----
 const C_BG     = [10, 15, 45];
 const C_NET    = [26, 34, 70];
-const C_PLAYER = [0, 240, 255];   // cyan
-const C_AI     = [255, 63, 140];  // pink
+const C_PLAYER = [255, 255, 255];   // cyan
+const C_AI     = [255, 255, 255];  // pink
 const C_BALL   = [255, 215, 0];   // gold
 const C_TEXT   = [150, 162, 196];
 
